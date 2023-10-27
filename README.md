@@ -33,10 +33,11 @@ capstone project
 
 * ## 개요
 
+<div align="center">
 
 https://github.com/Win-9/Nutt/assets/80390524/b585b44e-1e78-4ef8-881a-9560dd8c0e6d
 
-
+</div>
 
 * Nutt는 객체탐지와 대화형 인공지능을 이용하여 개발한 식단관리 웹 입니다.   
 * 사용자의 신체정보와 활동량, 목표치를 입력받아 이를 토대로 최적의 하루 섭취 칼로리와 영양성분들을 제시합니다.    
