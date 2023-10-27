@@ -11,7 +11,7 @@ capstone project
   <img src="./samples_img/chat.png">
 </p>
 
-| ---------------------------------------- | ---------------------------------------------------- | ----------------------------------------- |
+
 
 |Front-End Developer|AI Developer|Back-End Developer|
 |-|-|-|
