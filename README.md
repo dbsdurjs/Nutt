@@ -48,9 +48,11 @@ https://github.com/Win-9/Nutt/assets/80390524/b585b44e-1e78-4ef8-881a-9560dd8c0e
 
 ## 상세기능
 
+<div align="center">
 
 https://github.com/Mohaeng2023/Mohaeng/assets/80390524/156e8ac9-ddd2-42f2-8779-98cd84646fa4
 
+</div>
 
 * 해당 웹서비스를 IOS / Android 환경에 따라서 위와같은 방식으로 앱처럼 이용할 수 있습니다.   
 
