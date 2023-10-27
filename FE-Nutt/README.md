@@ -1,6 +1,5 @@
 # Nutt
 
-[FE Repo](https://github.com/radiantbeing/nutt-client) | [BE Repo](https://github.com/Win-9/Nutt) | [AI Repo](https://github.com/MyeongSeok98/Yoloflask) | [Demo](https://nutt.radiant.or.kr)
 
 > Nutt는 객체 탐지 시스템과 대화형 인공지능을 이용한 식단 기록 웹 앱입니다.
 
