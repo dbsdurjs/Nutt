@@ -1,0 +1,24 @@
+###
+GET http://219.255.1.253:8080/api/foodInfo/계란찜
+
+###
+POST http://219.255.1.253:8080/api/set/achieve
+Content-Type: application/json
+
+###
+GET http://219.255.1.253:8080/api/search/date/2023/5
+Authorization: Berear eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJraW1AbmF2ZXIuY29tIiwibmFtZSI6IlJPTEVfTk9STUFMIiwiaWF0IjoxNjg0NjAzNjA1LCJleHAiOjE2ODQ2MTM2MDV9.rjboMoETY37ovOSOBIX3N3znzGsRBr4WzQavn27b8jg
+
+###
+POST http://118.67.135.62:8080/api/set/achieve
+Content-Type: application/json;
+
+{
+    "age": 24,
+    "gender": "MALE",
+    "height": 171,
+    "pal": 1.55,
+    "target": "maintenance",
+    "weight": 64,
+    "weightGainRate": 0
+}
