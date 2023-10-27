@@ -5,8 +5,11 @@ capstone project
 [Demo](https://nutt.radiant.or.kr)
 
 ## Samples
-
 <p align="center">
+  <img src="./samples_img/home.png">
+</p>
+
+
 | ![Home](./samples_img/home.png) | ![Analysis](./samples_img/analysis.png) | ![Chat](./samples_img/chat.png) |
 | ------------------------ | -------------------------------- | ------------------------ |
 
