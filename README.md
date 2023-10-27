@@ -6,9 +6,9 @@ capstone project
 
 ## Samples
 <p align="center">
-  <img src="./samples_img/home.png">
+  ![Home]<img src="./samples_img/home.png">
   <img src="./samples_img/analysis.png">
-  <img src="./samples_img/chat">
+  <img src="./samples_img/chat.png">
 </p>
 
 
