@@ -6,13 +6,11 @@ capstone project
 
 ## Samples
 <p align="center">
-  ![Home]<img src="./samples_img/home.png">
+  <img src="./samples_img/home.png">
   <img src="./samples_img/analysis.png">
   <img src="./samples_img/chat.png">
 </p>
 
-
-| ![Home](./samples_img/home.png) | ![Analysis](./samples_img/analysis.png) | ![Chat](./samples_img/chat.png) |
 | ------------------------ | -------------------------------- | ------------------------ |
 
 |Front-End Developer|AI Developer|Back-End Developer|
