@@ -10,6 +10,7 @@ capstone project
   <img src="./samples_img/analysis.png">
   <img src="./samples_img/chat.png">
 </p>
+|-|-|-|
 
 
 
