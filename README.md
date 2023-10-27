@@ -6,6 +6,7 @@ capstone project
 
 ## Samples
 
+<p align="center">
 | ![Home](./samples_img/home.png) | ![Analysis](./samples_img/analysis.png) | ![Chat](./samples_img/chat.png) |
 | ------------------------ | -------------------------------- | ------------------------ |
 
