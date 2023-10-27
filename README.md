@@ -15,6 +15,7 @@ capstone project
 
 |Front-End Developer|AI Developer|Back-End Developer|
 |-|-|-|
+
 <div align="center">
   |Inhwa Kim: [github](https://github.com/radiantbeing)|MyeongSeok11: [github](https://github.com/MyeongSeok98)<br>dookh99: [github](https://github.com/dookh99),<br>dbsdurjs: [github](https://github.com/dbsdurjs)|Win9: [github](https://github.com/Win-9)|
 </div>
