@@ -110,12 +110,12 @@ https://github.com/Win-9/Nutt/assets/80390524/a038c159-090b-48dd-b4c8-8cebaf533f
 ---
 
 ## Awards
-* 캡스톤디자인 경진대회 은상 수상
-* 한국정보기술학회 대학생 논문 경진대회 동상 수상
+* **캡스톤디자인 경진대회 은상 수상**
+* **한국정보기술학회 대학생 논문 경진대회 동상 수상**
 
 
 ## References
 
-- 제품 소개 포스터: [링크](https://drive.google.com/file/d/1yM4gMDx4Nr9fm3pa4Alu_-HXcN9Tsd10/view?usp=sharing)
-- 제품 소개 동영상: [링크](https://drive.google.com/file/d/1QMuXN09Z8kfOTx42dXqzh5u3LnFPmauQ/view?usp=sharing)
-- 학술 논문: [링크](http://www.riss.kr/link?id=A108701259)
+- **제품 소개 포스터**: [링크](https://drive.google.com/file/d/1yM4gMDx4Nr9fm3pa4Alu_-HXcN9Tsd10/view?usp=sharing)
+- **제품 소개 동영상**: [링크](https://drive.google.com/file/d/1QMuXN09Z8kfOTx42dXqzh5u3LnFPmauQ/view?usp=sharing)
+- **학술 논문**: [링크](http://www.riss.kr/link?id=A108701259)
