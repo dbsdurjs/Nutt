@@ -6,7 +6,7 @@ capstone project
 
 ## Samples
 
-| ![Home](./docs/home.png) | ![Analysis](./docs/analysis.png) | ![Chat](./docs/chat.png) |
+| ![Home](./samples_img/home.png) | ![Analysis](./samples_img/analysis.png) | ![Chat](./samples_img/chat.png) |
 | ------------------------ | -------------------------------- | ------------------------ |
 
 |Front-End Developer|AI Developer|Back-End Developer|
