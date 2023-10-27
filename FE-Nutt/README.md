@@ -1,22 +1,8 @@
-# Nutt
-
-
-> Nutt는 객체 탐지 시스템과 대화형 인공지능을 이용한 식단 기록 웹 앱입니다.
-
-![Nutt](./docs/logo.png)
-
-## Overview
-
-- 사용자가 촬영한 사진을 통해 식단을 구성하는 음식을 탐지합니다.
-- ChatGPT를 활용하여 식단에 대한 개선 방향 및 피드백을 제공합니다.
-
 ## Tech Stack
 
 - Language: HTML, CSS, TypeScript
 - Library: React, Redux, Axios, Chakra UI, Tensorflow
 - Server: Linux, Docker
-
-## Deployment
 
 ### Using Basic Method
 
@@ -37,14 +23,3 @@
    ```
    npm run build
    ```
-
-## Samples
-
-| ![Home](./docs/home.png) | ![Analysis](./docs/analysis.png) | ![Chat](./docs/chat.png) |
-| ------------------------ | -------------------------------- | ------------------------ |
-
-## References
-
-- 제품 소개 포스터: [링크](https://drive.google.com/file/d/1yM4gMDx4Nr9fm3pa4Alu_-HXcN9Tsd10/view?usp=sharing)
-- 제품 소개 동영상: [링크](https://drive.google.com/file/d/1QMuXN09Z8kfOTx42dXqzh5u3LnFPmauQ/view?usp=sharing)
-- 학술 논문: [링크](http://www.riss.kr/link?id=A108701259)
